@@ -1,0 +1,53 @@
+I"^<p><img src="./_images/computing_with_signals_2024_croped.jpg" alt="Alt text" title="a title" /></p>
+
+<h2 id="course-contents">Course Contents</h2>
+<p><strong>Part-1</strong>: Foundations of Signal Processing</p>
+<ol>
+  <li>Introduction to (recorded) signals</li>
+  <li>Human perception of signals: hearing, vision and brain</li>
+  <li>Signal representations: continuous, Fourier series, Taylor series, sampling, discrete-time, and basis functions</li>
+  <li>DSP Methods: LTI system, convolution, DFT, DCT</li>
+</ol>
+
+<p><strong>Part-2</strong>: Advance Signal Processing</p>
+
+<ol>
+  <li>Time-frequency analysis</li>
+  <li>Spectral Estimation, Filtering, artifacts, and Kalman Filtering</li>
+  <li>Compressive Sensing</li>
+</ol>
+
+<p><strong>Part-3</strong>: Machine Learning on Signals</p>
+
+<ol>
+  <li>Dictionary Learning</li>
+  <li>Dimensionality Reduction: Concept and approaches</li>
+  <li>Modelling: What is a model? Why use a model? What are types of models?</li>
+  <li>Model fitting using deterministic and probabilistic approaches</li>
+  <li>Classifiers: Logistic regression to DNNs, and ending at CNNs</li>
+</ol>
+
+<p><strong>Part-4</strong>: Hands-on Development &amp; Research</p>
+
+<ol>
+  <li>Project: Pursued by students - Runs through out the course - Topics: Theory and Applications of SP and ML</li>
+  <li>Paper: Pursued by students - Paper Reading and Understanding - Critiquing through Presentation</li>
+</ol>
+
+<h2 id="helpful-pre-requisites">Helpful Pre-requisites</h2>
+<ul>
+  <li>Curiosity about signals, and building applications using them</li>
+  <li>Introduction to one or more subjects related to Random Process, Linear Algebra, and Signals &amp; Systems</li>
+  <li>Familiarity with Python Programming or ready to learn parallely</li>
+</ul>
+
+<h2 id="logistics">Logistics</h2>
+
+<p><strong>Open Elective</strong>: For B.Tech (3rd and 4th year)/ M.Tech Students/ Ph.D. Scholars</p>
+
+<p><strong>Class Room</strong>: To be announced</p>
+
+<p><strong>Timings</strong>: Slot B (Mon 10-10:55 AM, Thr 09-09:55 AM, and Fri 09-09:55 AM)<br /></p>
+
+<p>Please visit this page regularly for updated information on the course.<br /></p>
+:ET

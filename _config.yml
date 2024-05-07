@@ -1,0 +1,51 @@
+# Site settings
+course_name: DA623 Computing with Signals
+course_description: "This is an advanced course with a mix of learning, doing and presenting. The course content is divided into four parts. Three of these will focus on teaching the concepts and methods related to signal processing & machine learning, and drawing the links between them. To encourage learning by doing and to make the class interactive, the fourth part of the course will focus on development and research. This will include pursuing a project and presenting a paper from the literature. The course is meant for students who intend to learn signal processing from an interdisciplinary perspective. A student completing the course will be able to design and discuss solutions to real-world problems in the areas of audio, image, brain-computer interfacing, and atmospheric applications."
+course_semester: "Jan-May 2024"
+
+baseurl: "/da623w24" # the subpath of your site, e.g. /blog/
+url: "http://neerajww.github.io/" # the base hostname & protocol for your site
+
+schoolname: "MFSDSAI, IITG"
+schoolurl: "https://www.iitg.ac.in/dsai/"
+#twitter_username: username 
+
+address: |
+    Mehta Family School of Data Science and Artificial Intelligence
+    IIT Guwahati, India
+
+# Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
+# google_analytics: UA-XXXXXXXX-X
+
+### Do not change the followings unless you know what you are doing ###
+
+# Build settings
+markdown: kramdown
+
+# Other options
+permalink: blog/:year/:month/:title
+excerpt_separator: "<!--more-->"
+
+include: ['_images', '_css']
+exclude: ['develop']
+
+dateformat: "%m/%d/%Y"
+
+future: true
+collections:
+    events:
+        output: true
+    lectures:
+        output: true
+    assignments:
+        output: true
+    announcements:
+        output: false
+
+
+defaults:
+  - scope:
+      path: ""
+      type: "assignments"
+    values:
+      layout: "assignment"
